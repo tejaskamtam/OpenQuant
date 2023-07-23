@@ -6,7 +6,7 @@ import scipy.optimize as spo
 import pandas as pd
 
 ### Markowitz portfolio optimization
-class Markowitz:
+class EfficientFrontier:
     """
     Returns the optimal portfolio weights and the corresponding Sharpe ratio.
     Reference: https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/resources/mit18_s096f13_lecnote14/
@@ -178,3 +178,4 @@ class Markowitz:
         
         plt.legend()
         plt.show()
+        

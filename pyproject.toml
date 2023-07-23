@@ -1,6 +1,6 @@
 [project]
-name = "quantpy-ml"  # Required
-version = "0.0.1"  # Required
+name = "quantpy_ml"  # Required
+version = "0.0.2"  # Required
 description = "A package for quantitative finance with ML-based modeling tools"  # Optional
 readme = "README.md" # Optional
 requires-python = ">=3.7"
@@ -9,7 +9,7 @@ keywords = ["quant", "finance", "machine learning"]
 authors = [
   {name = "Tejas Kamtam", email = "tejaskamtam@yahoo.com" }
 ]
-classifiers = [  # Optional
+classifiers = [
   "Development Status :: 3 - Alpha",
   "Intended Audience :: Developers",
   "Intended Audience :: Science/Research",
@@ -21,13 +21,6 @@ classifiers = [  # Optional
   "Topic :: Office/Business :: Financial",
   "Topic :: Office/Business :: Financial :: Investment",
   "License :: OSI Approved :: MIT License"
-  "Programming Language :: Python :: 3",
-  "Programming Language :: Python :: 3.7",
-  "Programming Language :: Python :: 3.8",
-  "Programming Language :: Python :: 3.9",
-  "Programming Language :: Python :: 3.10",
-  "Programming Language :: Python :: 3.11",
-  "Programming Language :: Python :: 3 :: Only",
 ]
 dependencies = [ # Optional
   "numpy",

@@ -1,2 +1,3 @@
-# Markowitz-ML
-An ML based portfolio optimizer built on Modern Portfolio Theory pioneered by Harry Markowitz.
+# QuantPy
+
+A Quantitative Finance library for Python with ML-based modeling tools. A work in progress.

@@ -1,6 +1,20 @@
 # manual
 .DS_Store
 
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# due to using tox and pytest
+.tox
+.cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

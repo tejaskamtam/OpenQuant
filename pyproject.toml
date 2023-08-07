@@ -1,6 +1,6 @@
 [project]
-name = "quantpy_ml"  # Required
-version = "0.0.2"  # Required
+name = "quantpyml"  # Required
+version = "0.0.1"  # Required
 description = "A package for quantitative finance with ML-based modeling tools"  # Optional
 readme = "README.md" # Optional
 requires-python = ">=3.7"

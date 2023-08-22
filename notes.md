@@ -15,7 +15,7 @@ Then import in python terminal editor to test.
 Remove using `pip uninstall quantpyml`
 
 ### Building
-First edit version in toml. Then build wheel and dist:
+First delete dist then edit version in toml. Then build wheel and dist:
 ```sh
 python -m build
 ```

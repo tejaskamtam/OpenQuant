@@ -1,3 +1,3 @@
-# QuantPyML
+# OpenQuant
 
-A Quantitative Finance library for Python with ML-based modeling tools. A work in progress.
+An open-source one-stop shop for quantitative finance tools including modeling, fundamental/technical analysis, backtesting, options pricing, and forecasting. A work in progress.

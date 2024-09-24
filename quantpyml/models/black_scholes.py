@@ -3,7 +3,7 @@ from scipy.stats import norm
 import numpy as np
 
 class BlackScholes:
-    def __init__(self, price, strike, expiration: "T-days", vol: "annualized constant volatility", rate: "risk free rate" = 0.03, div: "dividend"=0):
+    def __init__(self, price, strike, expiration, vol, rate=0.03, div=0):
         self.S = price
         self.K = strike
         self.T = expiration/365

@@ -1,6 +1,9 @@
 # manual
 .DS_Store
 
+# ignore all files that begin with a dot except .gitignore
+.*
+
 
 # general things to ignore
 build/
